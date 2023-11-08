@@ -1,0 +1,13 @@
+{
+  "name": "firstProgram",
+  "version": "1.0.0",
+  "description": "A minimal Node.js web application to test deploying on Railway.",
+  "main": "index.js",
+  "author": "thakkaha",
+  "license": "MIT",
+   "dependencies": {
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
